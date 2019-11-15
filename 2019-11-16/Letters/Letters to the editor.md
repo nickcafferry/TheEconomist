@@ -1,6 +1,6 @@
 ###### On Elizabeth Warren, the Berlin Wall, southern Democrats, army food, William Rehnquist
 # Letters to the editor 
-> Nov 16th 2019 
+> Nov 14th 2019 
 The Economist is concerned about Elizabeth Warren’s “dubious…vilification of business” (“A plan for American capitalism”, October 26th). Yet the principles that lie behind the Democratic presidential candidate’s proposals are similar to those found in parts of Adam Smith’s “The Wealth of Nations”. He too argued that wide gaps between the classes are dangerous and thought that the most scrupulous and suspicious attention should be paid to any policy plans coming from businessmen. 
 In recent decades gains from productivity increases have been monopolised by the wealthy, a contrast to Smith’s belief that productivity gains from the division of labour lift the lowest ranks of people. Ms Warren advocates a return to the Glass-Steagall Act; Smith also called for the careful regulation of banking. 
 It is right to be concerned about excessive government, but Smith himself said there is a role for government when businesspeople neglect ethics. Today’s market system needs a significant course correction towards the direction of equal justice. Such a correction would be entirely consistent with Smith’s simple secret for prosperity: justice, liberty and equality. 

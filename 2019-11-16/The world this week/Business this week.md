@@ -1,7 +1,7 @@
 ###### Netflix, Disney and the battle to control eyeballs
 # Business this week 
 ![image](images/20191116_wwp004.jpg) 
-> Nov 16th 2019 
+> Nov 14th 2019 
 Disney’s streaming video service went live, the latest in a lengthening line of challengers to Netflix’s dominance of the market. The trove of programming on Disney+ not only includes its archive of animated classics, but also catalogues of material from other studios that Disney owns, which include Marvel, Pixar and 20th Century Fox. Along with rivals like Amazon and Apple (but not Netflix) Disney wants to entice customers into its wider product range—in its case, theme parks and cruises. See article. 
 Donald Trump increased the pressure on China to agree to a “phase one” trade deal, threatening to raise tariffs “substantially” if it does not. Whether America removes all tariffs or just those that are scheduled to come into effect in December remains a sticking-point in the negotiations. Diplomats are also searching for a neutral venue where the two countries’ presidents can sign a deal in front of the world’s cameras, after Chile cancelled the APEC summit in Santiago where the ceremony was supposed to take place. 
 GDP in both Germany and Japan grew by just 0.1% in the third quarter compared with the previous three months. Germany avoided a recession (its economy shrank by 0.2% in the second quarter), helped in part by a welcome rise in the country’s exports, which have struggled during global trade tensions. Britain also dodged a recession, chalking up growth of 0.3% following a previous contraction. Solid performances in the construction and services sectors offset flat growth in agriculture and manufacturing. See article. 

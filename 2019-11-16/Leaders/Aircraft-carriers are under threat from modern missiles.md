@@ -1,7 +1,7 @@
 ###### Sink or swim
 # Aircraft-carriers are under threat from modern missiles 
 ![image](images/20191116_LDD003_0.jpg) 
-> print-edition iconPrint edition | Leaders | Nov 16th 2019 
+> print-edition iconPrint edition | Leaders | Nov 14th 2019 
 “NO PIECE OF hardware better exemplifies America’s military might than an aircraft-carrier,” declare the memoirs of Ashton Carter, America’s defence secretary in 2015-17. Nor does any other piece of hardware so plainly exemplify what is wrong with America’s military thinking. Aircraft-carriers are the largest and most expensive machines in the history of warfare. A new American Ford-class ship costs $13bn—more than the annual defence budget of Poland or Pakistan. However, as precision missiles become faster, more accurate and more numerous, these beasts look increasingly like giant floating targets. 
 Although America has by far the world’s largest fleet of carriers—11 of the full-sized sort, plus half a dozen smaller ones—their appeal is global, and growing. China’s first domestically built carrier will be commissioned within months. Britain’s second modern carrier began its sea trials in September. Even pacifist Japan is converting two destroyers to carry jets, for the first time since the second world war. 
 Aircraft-carriers have proved their worth in recent years. Many armed forces watched admiringly as American naval jets did the lion’s share of bombing in the early months of war in Afghanistan in 2001 and Iraq in 2003 (and again in 2014). Land bases were often unavailable because of awkward geography or recalcitrant allies. 

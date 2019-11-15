@@ -1,7 +1,7 @@
 ###### Netflix, Disney and the battle to control eyeballs
 # Politics this week 
 ![image](images/20191116_wwp001.jpg) 
-> Nov 16th 2019 
+> Nov 14th 2019 
 Unrest flared again in Hong Kong after a protester died. Another was shot at close range by a police officer, allegedly while trying to grab his gun. A man was set on fire by demonstrators after remonstrating with them. One senior officer said society was on the “brink of a total breakdown”. The Chinese government said Hong Kong was “sliding into the abyss of terrorism”. See article. 
 China’s president, Xi Jinping, paid a visit to Greece, an important partner in the Chinese Belt and Road Initiative, which aims to improve global infrastructure. The two countries said they would work to “overcome any obstacles” facing a Chinese state-owned company’s plan to upgrade the port of Piraeus. Mr Xi promised support for Greece’s campaign to secure the return of the Elgin marbles from Britain. 
 India’s Supreme Court awarded the site of a mosque in the city of Ayodhya that was demolished by Hindu zealots in 1992 to Hindus planning to build a temple to the god Rama. It also criticised the destruction. The government was ordered to provide land nearby for the construction of a new mosque. The decision prompted grumbles from disappointed Muslims, but not the violence many had feared. See article. 

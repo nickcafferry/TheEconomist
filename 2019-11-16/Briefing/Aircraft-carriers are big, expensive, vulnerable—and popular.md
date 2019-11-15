@@ -1,7 +1,7 @@
 ###### Military kit
 # Aircraft-carriers are big, expensive, vulnerable—and popular 
 ![image](images/20191116_FBD001_1.jpg) 
-> print-edition iconPrint edition | Briefing | Nov 16th 2019 
+> print-edition iconPrint edition | Briefing | Nov 14th 2019 
 IN 2016 THE Admiral Kuznetsov, Russia’s sole aircraft-carrier, spluttered north through the English Channel belching thick black smoke. She was returning from an ignominious tour of duty in the Mediterranean. One of the 15 warplanes with which she had been pounding Syria had crashed into the sea; another had lurched off the deck after landing. When she finally docked near Murmansk a 70-tonne crane smashed into her deck. 
 The hapless Kuznetsov “is largely a white elephant with no real mission,” in the words of Michael Kofman, an expert on Russia’s armed forces. So why bother paying for the refit she has been undergoing ever since? “For the appearance”, says Mr Kofman, “of being a major naval power.” 
 Floating runways have signified naval seriousness for most of the past century. Originally seen as a way to provide air cover for other ships, the second world war saw aircraft-carriers and their air wings become the main way that fleets fought with each other. That role was largely lost after 1945, as the Soviet Union was not a naval power; the heart of the cold war lay on central Europe’s plains and in third-world hinterlands. But despite the lack of a high-seas competitor America made its carriers mightier still, using them to establish air superiority wherever it chose. 
