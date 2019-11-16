@@ -1,4 +1,4 @@
-###### Netflix, Disney and the battle to control eyeballs
+###### Military kit
 # Politics this week 
 ![image](images/20191116_wwp001.jpg) 
 > Nov 14th 2019 
