@@ -1,7 +1,7 @@
 ###### When “sí” means “we’ll see”
 # Why planning weddings in Mexico is hard 
 ![image](images/20191116_AMP003_0.jpg) 
-> print-edition iconPrint edition | The Americas | Nov 16th 2019 
+> print-edition iconPrint edition | The Americas | Nov 14th 2019 
 MEXICAN WEDDINGS are big. At middle-class nuptials a 500-name guest list is not unusual. In the United States the average is 140, according to the Knot, a wedding-planning website. But a typical Mexican boda is smaller than it might be. Many guests do not turn up even after they have said they will. Sometimes two-fifths of them are no-shows, says Cecilia Lara, a caterer in Zacatecas, a state in central Mexico. Some cancel days, or even hours, in advance—too late to change the booze and food order. 
 It seems to be a matter of culture. When Americans marry in Mexico the attrition rate is much lower, says Diego del Rio, who plans weddings for Mexican and American couples. Last-minute cancellations are almost unheard of. 
 Why is Mexico’s dropout rate so high? Long guest lists are part of the problem. They mean that Mexicans can get two dozen wedding invitations a year. Attending them all would be costly. Social convention plays a part. Americans normally break the bad news quickly, says Mr del Rio, but that is not the Mexican way. Instead, the practice is to accept, and then find some excuse (car crashes and absent nannies are popular) or simply not turn up. A woman who organised her mother’s wedding in Oaxaca says the bride’s best friend cancelled on the morning of the event. Her reason: “new circumstances”.  

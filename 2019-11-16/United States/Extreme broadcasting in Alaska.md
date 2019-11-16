@@ -1,4 +1,4 @@
-###### Come in, Sandy Point
+###### Come in, Sand Point
 # Extreme broadcasting in Alaska 
 ![image](images/20191116_usp502.jpg) 
 > print-edition iconPrint edition | United States | Nov 16th 2019 

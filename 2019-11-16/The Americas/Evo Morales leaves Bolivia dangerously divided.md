@@ -1,7 +1,7 @@
 ###### Rainbow resignation
 # Evo Morales leaves Bolivia dangerously divided 
 ![image](images/20191116_AMP001_0.jpg) 
-> print-edition iconPrint edition | The Americas | Nov 16th 2019 
+> print-edition iconPrint edition | The Americas | Nov 14th 2019 
 BY NOVEMBER 12TH, two days after Evo Morales abruptly quit as Bolivia’s president, a tense calm had settled on La Paz, the administrative capital. The streets were deserted. Buses and cable cars were idle. Most residents stayed indoors. The army was in control of the streets. But the lull did not last. On the following day violence broke out again in several regions, including La Paz. At least ten people have died in unrest leading up to and following Mr Morales’s decision to step down. 
 The renewed violence was a response to the naming of an interim president, Jeanine Áñez, who until Mr Morales’s resignation was the highest-ranking opposition politician in congress as the senate’s second vice-president. She has appointed a cabinet and promised to hold fresh elections soon. Much depends on whether these are accepted as legitimate by the millions of Bolivians who still revere Mr Morales. The signs so far are ominous. 
 Mr Morales fell because he took reverence for granted, and imagined it to be more widely shared than it is. Elected Bolivia’s first president of indigenous origin in 2005, he expanded the rights of indigenous people and used money from sales of the country’s natural gas to reduce poverty. Before he became president, “poor people like us could never be more than a maid, driver or gardener”, says Lilian Peralta, who works in an electronics shop in La Paz. Such sentiments helped him win re-election twice. 

@@ -1,7 +1,7 @@
 ###### Self-reinforcing bias
 # Japan’s electoral map favours the ruling party 
 ![image](images/20191116_ASP008_0.jpg) 
-> print-edition iconPrint edition | Asia | Nov 16th 2019 
+> print-edition iconPrint edition | Asia | Nov 14th 2019 
 THE ELECTION in July for the upper house of Japan’s parliament was “remarkably unfair”, Kazuhiko Tomita, a judge on the northerly island of Hokkaido, ruled in October. Worse, it was held in a “state of unconstitutionality”. He was referring to Japan’s severe malapportionment—the division of the country into legislative districts with widely differing populations. 
 In Miyagi there are almost 976,000 registered voters for every member the prefecture sends to the upper house of the Diet, or parliament. In Fukui prefecture, the equivalent figure is below 326,000. That means, in effect, that voters in Fukui get three times more representation in the upper house than their counterparts in Miyagi. The discrepancies in the lower house are not quite as bad. The most populous district, in Tokyo, has only twice the voters of the least populous, in Tottori, a largely rural prefecture on the west coast. 
 Japan’s constitution is a little woolly on how districts are to be drawn up. It gives the authority to do so to the Diet itself, but states, “All of the people are equal under the law” and “There shall be no discrimination because of race, creed, sex, social status, family origin, education, property or income.” Campaigning lawyers have repeatedly used these clauses to challenge malapportionment in the courts. Hidetoshi Masunaga leads the group that brought the case decided last month in Hokkaido. As he observes, “One man, 0.5 votes” is not exactly democratic. 
