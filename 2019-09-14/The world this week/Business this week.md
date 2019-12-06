@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-###### Crisis in the Gulf
-=======
-###### Chips with everything
->>>>>>> 50f1fbac684ef65c788c2c3b1cb359dd2a904378
+###### Our election endorsement
 # Business this week 
 > Sep 14th 2019 
 Ren Zhengfei, the founder and boss of Huawei, said he was considering selling his company’s 5G technology, which has become a source of tension between America and China. The Chinese maker of telecoms equipment has in effect been locked out of the American roll-out of 5G because of national-security concerns. Mr Zhengfei suggested Huawei would share 5G patents with a buyer, along with licences and codes, but it would continue to sell its own 5G equipment. See article. 
