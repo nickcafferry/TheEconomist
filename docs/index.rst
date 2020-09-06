@@ -21,3 +21,8 @@ all rights reserved.
 
 .. |bamboo| unicode:: 0x1F024 .. bamboo
 
+20200829
+========
+
+.. raw:: html
+  :file: introduction.html
