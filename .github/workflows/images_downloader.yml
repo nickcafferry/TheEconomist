@@ -21,9 +21,6 @@ jobs:
         git config --global user.email "ucecwme@ucl.ac.uk"
         git config --global user.name "nickcafferry"
         git init
-#        mkdir source
-#        mkdir source/assets
-#        mkdir source/assets/images
         
         cd ./source/assets/images/
         
