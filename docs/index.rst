@@ -1,5 +1,5 @@
-|Docs| |License| |--|  |today| 
--------------------
+|Docs| |License| |--| |today| 
+-----------------------------
 
 .. |Docs| image:: https://readthedocs.org/projects/theeconomist/badge/?version=latest
    :target: https://theeconomist.readthedocs.io/en/latest/?badge=latest
