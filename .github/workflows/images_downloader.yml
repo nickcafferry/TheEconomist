@@ -30,9 +30,9 @@ jobs:
         ls
         echo '============================================'
         
-        mkdir 20190518
-        cd 20190518/
-        wget -O 20190518.zip https://onlineconvertfree.com/upload/converter/050920/D8oKbeP/0518PDF.zip
+        mkdir 20200829
+        cd 20200829/
+        wget -O 20190518.zip http://audiocdn.economist.com/sites/default/files/AudioArchive/2015/20150530/Issue_8940_20150530_The_Economist_Full_edition.zip
         unzip 20190518.zip
         git add -A
         git rm -f 20190518.zip
