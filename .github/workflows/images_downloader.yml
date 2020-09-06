@@ -27,7 +27,6 @@ jobs:
         ls
         echo '============================================'
         
-        mkdir assets
         mkdir assets/images
         cd assets/images/
         mkdir 20200829
