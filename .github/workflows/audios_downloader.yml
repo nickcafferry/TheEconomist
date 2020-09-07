@@ -30,9 +30,9 @@ jobs:
         #mkdir assets
         #mkdir assets/audios
         cd assets/audios/
-        mkdir 20150613
-        cd 20150613/
-        wget -O 20190518.zip http://audiocdn.economist.com/sites/default/files/AudioArchive/2015/20150613/Issue_8942_20150613_The_Economist_Full_edition.zip
+        mkdir 20150620
+        cd 20150620/
+        wget -O 20190518.zip http://audiocdn.economist.com/sites/default/files/AudioArchive/2015/20150620/Issue_8943_20150620_The_Economist_Full_edition.zip
         unzip 20190518.zip
         git add -A
         git rm -f 20190518.zip
